@@ -1,1 +1,0 @@
-# ruby-school-2
